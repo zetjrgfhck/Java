@@ -3,7 +3,7 @@ public class chapter6{
     //int number;
     //number = 3;
     //System.out.println(number);
-    
+
     String name;
     name = "Wanko";
     System.out.println(name);
