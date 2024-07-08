@@ -8,7 +8,7 @@ public class chapter23 {
     }
     
     //拡張for文
-    for(String name: names) {
+    for(String name : names) {
       System.out.println("私の名前は" + name + "です");
     }
   }
